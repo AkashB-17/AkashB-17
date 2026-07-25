@@ -1,28 +1,23 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Akash+Biswas+%F0%9F%91%8B;I+build+ML+systems+that+ship%2C+not+notebooks;Full-stack+ML%3A+training+%E2%86%92+APIs+%E2%86%92+deployment;NLP+%7C+Agentic+AI+%7C+MLOps+%7C+Data+Science" alt="Typing SVG" />
-  </a>
-</p>
+# Akash Biswas
+
+**AI/ML Engineer** · NLP · Agentic AI · MLOps · Data Science
 
 ---
 
 ### About me
 
-Pre-final year CS undergrad at Bennett University (batch 2023–2027), building end-to-end ML
-and AI systems — not just training models, but shipping them as working products with real
-APIs, real UIs, and real deployments. I lead operations for a 500+ member career development
-club and I'm currently hunting for **AI/ML Engineering and Data Science internships**.
-
-Every project below is deployed and usable, not just a notebook sitting in a repo.
+Final year Computer Science student at Bennett University, building AI and ML systems —
+from agentic pipelines to deployed inference APIs. I work across NLP, MLOps, and full-stack
+ML deployment, and lead operations for a 500+ member career development club.
 
 ---
 
 ### What I'm working on right now
 
-- 🤖 Multi-agent AI systems — deep in **CrewAI** and **LangGraph**
-- 🔐 PII detection & redaction pipelines (regex + spaCy NER, hybrid approaches)
-- 🧠 Agentic workflows for real-world tasks (internship outreach, career tooling)
-- 🏠 Self-hosting / homelab — Immich, Tailscale, Jellyfin, Pi-hole
+- Multi-agent AI systems — deep in **CrewAI** and **LangGraph**
+- PII detection & redaction pipelines (regex + spaCy NER, hybrid approaches)
+- Agentic workflows for real-world tasks (internship outreach, career tooling)
+- Self-hosting / homelab — Immich, Tailscale, Jellyfin, Pi-hole
 
 ---
 
@@ -62,8 +57,8 @@ queries.
 An LLM-powered exam preparation assistant.
 `Python` `LLM`
 
-> 📌 A couple of older/smaller repos (churn prediction, house price prediction, etc.) still
-> live on my profile as early learning projects — the ones above are what I'd point a
+> Note: a couple of older/smaller repos (churn prediction, house price prediction, etc.)
+> still live on my profile as early learning projects — the ones above are what I'd point a
 > recruiter to first.
 
 ---
@@ -116,5 +111,5 @@ open to remote and on-site roles.
 </p>
 
 <p align="center">
-  <b>⭐ If any of these projects are useful to you, a star is always appreciated!</b>
+  <b>If any of these projects are useful to you, a star is always appreciated.</b>
 </p>
