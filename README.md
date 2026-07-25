@@ -1,7 +1,3 @@
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=AkashB-17&style=flat-square&color=6366f1&label=Profile+Views" alt="profile views" />
-</p>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Akash+Biswas+%F0%9F%91%8B;I+build+ML+systems+that+ship%2C+not+notebooks;Full-stack+ML%3A+training+%E2%86%92+APIs+%E2%86%92+deployment;NLP+%7C+Agentic+AI+%7C+MLOps+%7C+Data+Science" alt="Typing SVG" />
@@ -101,19 +97,6 @@ An LLM-powered exam preparation assistant.
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![uv](https://img.shields.io/badge/uv-DE5FE9?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-### GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkashB-17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Akash's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashB-17&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkashB-17&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
 
 ---
 
